@@ -19,8 +19,8 @@ Welcome to the **Weather Data Cache API**, a simple and efficient service for re
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/mogbonna/weatherApiWithCaching.git
+   cd weatherApiWithCaching
    ```
 
 2. Install dependencies:
